@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivsagar999
+- 👋 Hi, I’m Shivsagar S Wagle
 - 👀 I’m interested in Coding and 🏍
 - 🌱 I’m currently learning iOS app development
 - 💞️ I’m looking to collaborate on app development(iOS)
