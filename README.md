@@ -22,6 +22,9 @@
 
 <div style="display:inline_block" align="left">
     <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40" /> </a>
+    
+     <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40" /> </a>
+     <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40" /> </a>
 <!--           
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>     -->
 </div>
