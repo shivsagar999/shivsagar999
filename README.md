@@ -7,9 +7,9 @@
     
 - 👀 I’m interested in **Coding** and 🏍
 
-- 🌱 I’m currently learning **iOS App Development**
+- 🌱 I’m currently learning **Web App Development**
 
-- 💞️ I’m looking to collaborate on **App Development(iOS)**
+- 💞️ I’m looking to collaborate on **App Development**
 
 - 📫 How to reach me **Shivsagar935@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display:inline_block" align="left">
+<div style="display:inline_block;  gap: 10px;" align="left">
     <a  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" width="40" height="40" /> </a>
     <a  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".Net" width="40" height="40" /> </a>
     <a  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Angular_Logo_SVG.svg" alt="Angular" width="40" height="40" /> </a>
