@@ -21,6 +21,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display:inline_block" align="left">
+    <a  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" width="40" height="40" /> </a>
+    <a  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".Net" width="40" height="40" /> </a>
+    <a  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Angular_Logo_SVG.svg" alt="Angular" width="40" height="40" /> </a>
     <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40" /> </a>
     
 </div>
