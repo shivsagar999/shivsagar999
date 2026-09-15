@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently focused on **Backend Development (.NET)** and expanding my **DevOps** expertise.
-- 🌱 I’m actively working with **Kubernetes, Helm**, and streamlining local deployments alongside **Docker**.
-- 🛠️ I have a strong foundation in **Full-Stack Development**, spanning from backend architecture and SQL databases to frontend frameworks (Angular, React).
+- 🔭 I’m a Software Developer with a strong focus on **Backend Architecture (.NET)** and **DevOps** practices.
+- 🌱 I am actively working on containerization and orchestration using **Docker, Kubernetes, and Helm**.
+- 🛠️ I have a solid foundation in **Full-Stack Development**, spanning from database design to modern frontend frameworks.
 - 🏍️ Outside of the tech world, I'm passionate about coding and motorcycles.
 - 📫 How to reach me: **[Shivsagar935@gmail.com](mailto:Shivsagar935@gmail.com)**
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/shivsagar999">
     <img src="https://github-readme-stats.vercel.app/api?username=shivsagar999&show_icons=true&theme=radium&hide_border=true" alt="Shivsagar's GitHub Stats" />
   </a>
 </p>
