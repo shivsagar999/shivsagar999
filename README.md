@@ -1,33 +1,53 @@
-
 <h1 align="center">Hi 👋, I'm Shivsagar S Wagle</h1>
-<h3 align="center">A Passionate App Developer from India</h3>
-<!--// Below line can be used for add image-->
-<!--<img align="right" alt="Coding" width="400" src="https://nix-united.com/wp-content/uploads/2020/03/iStock-513902467.jpg">-->
-    <br />
-    
-- 👀 I’m interested in **Coding** and 🏍
+<h3 align="center">Software Engineer | Backend & DevOps Enthusiast 🇮🇳</h3>
 
-- 🌱 I’m currently learning **Web App Development**
-
-- 💞️ I’m looking to collaborate on **App Development**
-
-- 📫 How to reach me **Shivsagar935@gmail.com**
-
-<p align="left">
+<p align="center">
+  Building robust backend systems, exploring cloud infrastructure, and continuously learning new ways to deploy and scale applications.
 </p>
 
-<br />
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 👨‍💻 About Me
 
-<div style="display:inline_block;  gap: 10px;" align="left">
-    <a  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" width="40" height="40" /> </a>
-    <a  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".Net" width="40" height="40" /> </a>
-    <a  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Angular_Logo_SVG.svg" alt="Angular" width="40" height="40" /> </a>
-    <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40" /> </a>
-    
-</div>
-<!---
-shivsagar999/shivsagar999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently focused on **Backend Development (.NET)** and expanding my **DevOps** expertise.
+- 🌱 I’m actively working with **Kubernetes, Helm**, and streamlining local deployments alongside **Docker**.
+- 🛠️ I have a strong foundation in **Full-Stack Development**, spanning from backend architecture and SQL databases to frontend frameworks (Angular, React).
+- 🏍️ Outside of the tech world, I'm passionate about coding and motorcycles.
+- 📫 How to reach me: **[Shivsagar935@gmail.com](mailto:Shivsagar935@gmail.com)**
+
+---
+
+### 🚀 Languages & Tools
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+**DevOps & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="Shivsagar's GitHub Stats" />
+  </a>
+</p>
