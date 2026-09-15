@@ -48,6 +48,6 @@
 <p align="center">
   <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="Shivsagar's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shivsagar999&show_icons=true&theme=radium&hide_border=true" alt="Shivsagar's GitHub Stats" />
   </a>
 </p>
